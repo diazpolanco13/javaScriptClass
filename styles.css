@@ -1,0 +1,45 @@
+.editor {
+  line-height: 20px;
+  padding: 20px;
+  border-radius: 0;
+  font-size: 15px;
+  background: #1d2426;
+  box-shadow: inset 0px 1px 4px #d6d6d6;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
+}
+.codigo {
+  color: white;
+  display: flex;
+  /* background-image: linear-gradient(#fcfcfc,#eee); */
+  /* font-weight: 700; */
+  line-height: 20px;
+}
+.red {
+  color: #c03459;
+}
+.valor {
+  color: #9a82e0;
+}
+.azul {
+  color: #49daf7;
+}
+.gris {
+  color: gray;
+}
+.green {
+  color: #96e128;
+}
+.white {
+  color: honeydew;
+}
+.yellow {
+  color: yellow;
+}
+body {
+  margin: 0 auto;
+  max-width: 920px;
+  height: 100vh;
+  border: 1px solid;
+  padding: 15px;
+}
